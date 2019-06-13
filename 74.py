@@ -1,2 +1,2 @@
-ax=list(map(int,input().split()))
-print(ax[0]**ax[1])
+sx=list(map(int,input().split()))
+print(sx[0]**sx[1])
